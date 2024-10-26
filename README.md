@@ -1,4 +1,4 @@
-# PenCraft
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=F7F7F7&width=435&height=70&lines=%F0%9F%8C%9FPenCraft%E2%9C%92%EF%B8%8F" alt="Typing SVG" /></a>
 
 <img width="1226" alt="image" src="https://github.com/user-attachments/assets/f075039a-a8a2-4330-b7c8-b26d66ca2e8c">
 
